@@ -1,4 +1,66 @@
-<img src="./profile-svg.svg">
+# 👋 Felipe Gómez
+## _Hi welcome to my profile,I'm FelipeGCx a Junior Web & Software Developer, I love programming and I hope you find something that you like in my repositories._
+
+___
+
+# 🎓 Skills
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./javascript.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./python.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./java.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./typescript.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./vue.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./next.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./react 1.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./spring.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./django.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./node.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./mongo.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./postgresql.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./apollo.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./graphql.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./html.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./css.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./inkscape.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./figma.svg" />
+</a>
+<a href="https://github.com/felipegcx/" >
+  <img height=48 align="center" src="./illustrator.svg" />
+</a>
 
 ___
 
