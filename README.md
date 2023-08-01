@@ -41,9 +41,6 @@ ___
   <img height=48 align="center" src="./postgresql.svg" />
 </a>
 <a href="https://github.com/felipegcx/" >
-  <img height=48 align="center" src="./apollo.svg" />
-</a>
-<a href="https://github.com/felipegcx/" >
   <img height=48 align="center" src="./graphql.svg" />
 </a>
 <a href="https://github.com/felipegcx/" >
@@ -53,13 +50,7 @@ ___
   <img height=48 align="center" src="./css.svg" />
 </a>
 <a href="https://github.com/felipegcx/" >
-  <img height=48 align="center" src="./inkscape.svg" />
-</a>
-<a href="https://github.com/felipegcx/" >
   <img height=48 align="center" src="./figma.svg" />
-</a>
-<a href="https://github.com/felipegcx/" >
-  <img height=48 align="center" src="./illustrator.svg" />
 </a>
 
 ___
