@@ -1,5 +1,5 @@
 # 👋 Felipe Gómez
-## _Hi welcome to my profile,I'm FelipeGCx a Junior Web & Software Developer, I love programming and I hope you find something that you like in my repositories._
+## _Hi welcome to my profile,I'm FelipeGCx a Web & Software Developer, I love programming and I hope you find something that you like in my repositories._
 
 ___
 
